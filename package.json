@@ -1,0 +1,25 @@
+{
+  "name": "authenticity",
+  "version": "1.0.0",
+  "description": "Impact Authenticity Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rachellejragasa/authenticity.git"
+  },
+  "author": "Rachelle Ragasa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rachellejragasa/authenticity/issues"
+  },
+  "homepage": "https://github.com/rachellejragasa/authenticity#readme",
+  "dependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^4.0.1"
+  }
+}
