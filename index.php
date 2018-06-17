@@ -1,25 +1,33 @@
 <?php get_header(); ?>  
 
- <!-- About -->
- <section class="content-section bg-light" id="about">
+ <!-- About the Company -->
+ <section class="content-section bg-light" id="about-the-company">
       <div class="container text-center">
         <div class="row">
           <div class="col-lg-10 mx-auto">
-            <h2>Stylish Portfolio is the perfect theme for your next project!</h2>
-            <p class="lead mb-5">This theme features a flexible, UX friendly sidebar menu and stock photos from our friends at
-              <a href="https://unsplash.com/">Unsplash</a>!</p>
-            <a class="btn btn-dark btn-xl js-scroll-trigger" href="#services">What We Offer</a>
+          <div class="content-section-heading">
+            <h2 class="mb-5">About the Company</h2>
+          </div>
+            <p class="lead mb-5">
+            Authenticity is a brand new exciting company for talented young authentic dancers aged 11-
+            18 to represent London. The aim is to highlight the elite dance talent within London, provide
+            performance opportunities that are accessible and affordable as well as nurture a safe and
+            creative environment to train and grow within dance.
+            For their opening works, dancers are working alongside the Impact Dance creative team to
+            create a 15-minute piece of work, which will be performed outdoors at this year’s ‘Dancing
+            City’(Greenwich Docklands International Festival) and ‘Imagine Watford’ (Watford Palace
+            Theatre) at the end of June/beginning of July 2018. 
+            </p>
           </div>
         </div>
       </div>
     </section>
 
-    <!-- Services -->
-    <section class="content-section bg-primary text-white text-center" id="services">
+    <!-- About the Team -->
+    <section class="content-section bg-primary text-white text-center" id="about-the-team">
       <div class="container">
         <div class="content-section-heading">
-          <h3 class="text-secondary mb-0">Services</h3>
-          <h2 class="mb-5">What We Offer</h2>
+          <h2 class="mb-5">About the Team</h2>
         </div>
         <div class="row">
           <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
@@ -27,50 +35,77 @@
               <i class="icon-screen-smartphone"></i>
             </span>
             <h4>
-              <strong>Responsive</strong>
+              <strong>Executive Director Hakeem Onibudo</strong>
             </h4>
-            <p class="text-faded mb-0">Looks great on any screen size!</p>
+            <p class="text-faded mb-0">
+            Impact Dance founder, British Council Ambassador, Movie Premiere Host – Suicide Squad,
+            Star Wars The Last Jedi, The Force Awakens and Fast and Furious 6 to name a few,
+            Breakin’ Convention, LIVEVIBE and most recently Associate Producer at The Place on the
+            Arts Council funded Changemakers programme.
+            </p>
           </div>
           <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
             <span class="service-icon rounded-circle mx-auto mb-3">
               <i class="icon-pencil"></i>
             </span>
             <h4>
-              <strong>Redesigned</strong>
+              <strong>Team Member 2</strong>
             </h4>
-            <p class="text-faded mb-0">Freshly redesigned for Bootstrap 4.</p>
+            <p class="text-faded mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
           </div>
           <div class="col-lg-3 col-md-6 mb-5 mb-md-0">
             <span class="service-icon rounded-circle mx-auto mb-3">
               <i class="icon-like"></i>
             </span>
             <h4>
-              <strong>Favorited</strong>
+              <strong>Team Member 3</strong>
             </h4>
-            <p class="text-faded mb-0">Millions of users
-              <i class="fa fa-heart"></i>
-              Start Bootstrap!</p>
+            <p class="text-faded mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
           </div>
           <div class="col-lg-3 col-md-6">
             <span class="service-icon rounded-circle mx-auto mb-3">
               <i class="icon-mustache"></i>
             </span>
             <h4>
-              <strong>Question</strong>
+              <strong>Team Member 4</strong>
             </h4>
-            <p class="text-faded mb-0">I mustache you a question...</p>
+            <p class="text-faded mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
           </div>
         </div>
       </div>
     </section>
 
-    <!-- Callout -->
-    <section class="callout">
+    <!-- Authenticity Inaugural Company -->
+    <section class="content-section bg-light" id="company">
       <div class="container text-center">
-        <h2 class="mx-auto mb-5">Welcome to
-          <em>your</em>
-          next website!</h2>
-        <a class="btn btn-primary btn-xl" href="https://startbootstrap.com/template-overviews/stylish-portfolio/">Download Now!</a>
+        <div class="row">
+          <div class="col-lg-10 mx-auto">
+          <div class="content-section-heading">
+            <h2 class="mb-5">Authenticity Inaugural Company</h2>
+          </div>
+            <p class="lead mb-5">
+            We have dancers from the following London Boroughs: 
+            <br>
+            Kensington & Chelsea
+            <br>
+            Southwark
+            <br>
+            Lambeth
+            <br>
+            Bexley
+            <br>
+            Croydon
+            <br>
+            Hackney
+            <br>
+            Newham
+            <br>
+            Greenwich
+            <br>
+            Brent
+            </p>
+          </div>
+        </div>
       </div>
     </section>
 
@@ -128,24 +163,6 @@
           </div>
         </div>
       </div>
-    </section>
-
-    <!-- Call to Action -->
-    <section class="content-section bg-primary text-white">
-      <div class="container text-center">
-        <h2 class="mb-4">The buttons below are impossible to resist...</h2>
-        <a href="#" class="btn btn-xl btn-light mr-4">Click Me!</a>
-        <a href="#" class="btn btn-xl btn-dark">Look at Me!</a>
-      </div>
-    </section>
-
-    <!-- Map -->
-    <section id="contact" class="map">
-      <iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A&amp;output=embed"></iframe>
-      <br/>
-      <small>
-        <a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A"></a>
-      </small>
     </section>
 
     <?php get_footer(); ?>

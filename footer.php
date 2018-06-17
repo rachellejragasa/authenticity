@@ -1,5 +1,5 @@
  <!-- Footer -->
- <footer class="footer text-center">
+ <footer class="footer text-center" id="contact">
       <div class="container">
         <ul class="list-inline mb-5">
           <li class="list-inline-item">
