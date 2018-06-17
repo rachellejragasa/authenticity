@@ -29,8 +29,14 @@
       <i class="fa fa-bars"></i>
     </a>
     <nav id="sidebar-wrapper">
-      <ul class="sidebar-nav">
-        <li class="sidebar-brand">
+    <?php wp_nav_menu( array('menu' => 'primary','container'=> '','items_wrap'=>'<ul class="sidebar-nav">%3$s</ul>')); ?>
+
+        
+
+        
+        
+        
+        <!-- <li class="sidebar-brand">
           <a class="js-scroll-trigger" href="#page-top">Start Bootstrap</a>
         </li>
         <li class="sidebar-nav-item">
@@ -47,8 +53,7 @@
         </li>
         <li class="sidebar-nav-item">
           <a class="js-scroll-trigger" href="#contact">Contact</a>
-        </li>
-      </ul>
+        </li> -->
     </nav>
 
     <!-- Header -->
