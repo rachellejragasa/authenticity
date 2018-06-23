@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Stylish Portfolio - Start Bootstrap Template</title>
+    <title>Authenticity Dance Company</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="<?php echo get_template_directory_uri() . '/vendor/bootstrap/css/bootstrap.min.css'; ?>" rel="stylesheet">
@@ -35,11 +35,11 @@
     <!-- Header -->
     <header class="masthead d-flex">
       <div class="container text-center my-auto">
-        <h1 class="mb-1">Stylish Portfolio</h1>
+        <!-- <h1 class="mb-1">Stylish Portfolio</h1>
         <h3 class="mb-5">
           <em>A Free Bootstrap Theme by Start Bootstrap</em>
         </h3>
-        <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Find Out More</a>
+        <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Find Out More</a> -->
       </div>
       <div class="overlay"></div>
     </header>
