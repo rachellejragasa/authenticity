@@ -31,9 +31,9 @@
     </div>
     <div class="row">
       <div class="col-lg-4 col-md-6 mb-5 mb-lg-0">
-        <span class="service-icon rounded-circle mx-auto mb-3">
-          <i class="icon-screen-smartphone"></i>
-        </span>
+        <div class="circular-img mx-auto mb-3">
+          <img src="http://localhost:8888/wp-content/themes/authenticity/img/IMG_3504.JPG">
+        </div>
         <h4>
           <strong>Hakeem Onibudo</strong>
         </h4>
@@ -118,50 +118,48 @@
 </section>
 
 <!-- Current Work -->
-<section class="content-section bg-primary text-white text-center" id="current-work">
+<section class="content-section" id="current-work">
   <div class="container text-center">
     <div class="row">
       <div class="col-lg-10 mx-auto">
       <div class="content-section-heading">
+        <h3 class="text-secondary mb-0">Choreography</h3>
         <h2 class="mb-5">Current Work</h2>
       </div>
         <p class="lead mb-5">
-        Authenticity is a brand new exciting company for talented young authentic dancers aged 11-
-        18 to represent London. The aim is to highlight the elite dance talent within London, provide
-        performance opportunities that are accessible and affordable as well as nurture a safe and
-        creative environment to train and grow within dance.
-        For their opening works, dancers are working alongside the Impact Dance creative team to
-        create a 15-minute piece of work, which will be performed outdoors at this year’s ‘Dancing
-        City’(Greenwich Docklands International Festival) and ‘Imagine Watford’ (Watford Palace
-        Theatre) at the end of June/beginning of July 2018. 
+          <strong>Choreographers:</strong> Rachel Greer, Hakeem Onibudo and Keanu Wilson
+          <br>
+          <strong>Name: </strong>Transient
+          <br>
+          <strong>Duration: </strong>12 minutes
+          <br>
+          <strong>Description: </strong> Youth are depicted as a fast-paced Society, moving 
+          at speed causing them to ‘miss’ details about their environment and the people 
+          around them. With an interjection, they are forced to slow down, enabling them to 
+          notice their surroundings. Notice leads to observation-observation may lead to focus. 
+          Resulting in stillness – this creates a sense of empathy which may reverberate 
+          through individuals.
         </p>
       </div>
     </div>
   </div>
 </section>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- Testimonial -->
+<section class="content-section bg-primary text-white text-center" id="testimonials">
+  <div class="container text-center">
+    <div class="row">
+      <div class="col-lg-10 mx-auto">
+      <div class="content-section-heading">
+        <h2 class="mb-5">Testimonials</h2>
+      </div>
+      </div>
+    </div>
+  </div>
+</section>
 
 <!-- Portfolio -->
-<section class="content-section" id="portfolio">
+<section class="content-section" id="dancers">
   <div class="container">
     <div class="content-section-heading text-center">
       <h3 class="text-secondary mb-0">Portfolio</h3>

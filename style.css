@@ -373,3 +373,10 @@ a:hover, a:focus, a:active {
 .text-secondary {
   color: #ecb807 !important;
 }
+
+.circular-img img {
+  max-width: 100%;
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+}
