@@ -329,6 +329,8 @@
                 <strong>Borough: </strong>Southwark
                 <br>
                 <strong>Favourite Food: </strong>Meatfest pizza
+                <br>
+                <strong>Interesting Fact: </strong>
               </p>
             </span>
           </span>
@@ -344,6 +346,8 @@
                 <strong>Age: </strong>18
                 <br>
                 <strong>Borough: </strong>Middlesex
+                <br>
+                <strong>Favourite Food: </strong>
                 <br>
                 <strong>Interesting Fact: </strong>Nia is originally from Wales
               </p>
