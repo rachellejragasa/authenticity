@@ -1,4 +1,4 @@
-<?php get_header(); ?>  
+<?php get_header(); ?>
 
 <!-- About the Company -->
 <section class="content-section bg-light" id="about-the-company">
@@ -16,7 +16,7 @@
         For their opening works, dancers are working alongside the Impact Dance creative team to
         create a 15-minute piece of work, which will be performed outdoors at this year’s ‘Dancing
         City’(Greenwich Docklands International Festival) and ‘Imagine Watford’ (Watford Palace
-        Theatre) at the end of June/beginning of July 2018. 
+        Theatre) at the end of June/beginning of July 2018.
         </p>
       </div>
     </div>
@@ -32,7 +32,7 @@
     <div class="row">
       <div class="col-lg-4 col-md-6 mb-5 mb-lg-0">
         <div class="circular-img mx-auto mb-3">
-          <img src="http://localhost:8888/wp-content/themes/authenticity/img/IMG_3504.JPG">
+          <img src="<?php echo get_template_directory_uri() . '/img/IMG_3504.JPG'; ?>">
         </div>
         <h4>
           <strong>Hakeem Onibudo</strong>
@@ -46,36 +46,36 @@
         </p>
       </div>
       <div class="col-lg-4 col-md-6 mb-5 mb-lg-0">
-        <span class="service-icon rounded-circle mx-auto mb-3">
-          <i class="icon-pencil"></i>
-        </span>
+      <div class="circular-img mx-auto mb-3">
+          <img src="<?php echo get_template_directory_uri() . '/img/Paige_Jarrett.jpg'; ?>">
+        </div>
         <h4>
           <strong>Paige Jarrett</strong>
         </h4>
         <h5>Operations Manager</h5>
-        <p class="text-faded mb-0">Paige Jarrett is a graduate from Kingston University and has 
-        been working alongside Onibudo as the Trainee Producer at The Place on the Arts Council 
-        Funded Changemakers Programme for the last eight months September 2017 - April 2018. 
-        Paige has also worked on Ignition Dance Festival produced by DanceWest (2016 - 2018). 
-        During her role at the Place, Paige was responsible for producing 3 major events including 
-        LIVEVIBE, MIXIN’ MEDIA and TUNE-D IN. Paige is now a on her way to establishing herself as 
-        one of the new leaders in the arts and can easily fill the role of any creative producer 
+        <p class="text-faded mb-0">Paige Jarrett is a graduate from Kingston University and has
+        been working alongside Onibudo as the Trainee Producer at The Place on the Arts Council
+        Funded Changemakers Programme for the last eight months September 2017 - April 2018.
+        Paige has also worked on Ignition Dance Festival produced by DanceWest (2016 - 2018).
+        During her role at the Place, Paige was responsible for producing 3 major events including
+        LIVEVIBE, MIXIN’ MEDIA and TUNE-D IN. Paige is now a on her way to establishing herself as
+        one of the new leaders in the arts and can easily fill the role of any creative producer
         within any  high level arts organisation.</p>
       </div>
       <div class="col-lg-4 col-md-6 mb-5 mb-md-0">
-        <span class="service-icon rounded-circle mx-auto mb-3">
-          <i class="icon-like"></i>
-        </span>
+      <div class="circular-img mx-auto mb-3">
+          <img src="<?php echo get_template_directory_uri() . '/img/Rebecca_Leslie.jpg'; ?>">
+        </div>
         <h4>
           <strong>Rebecca Leslie</strong>
         </h4>
         <h5>Participation Manager</h5>
-        <p class="text-faded mb-0">Rebecca Leslie trained at London Studio Centre. After graduating 
-        she freelanced as an arts administrative in organisations who specialise working with young 
-        people such as Wac Arts, Step Into Dance and Community Focus. Rebecca went on to apply for 
-        the role of Impact Youth Academy manager. On successfully being appointed with this organisation, 
-        Rebecca has been coordinating the youth academy for the past 6 months exhibiting strong 
-        organizational skills and efficiency in running the academy. Her knowledge of young people and 
+        <p class="text-faded mb-0">Rebecca Leslie trained at London Studio Centre. After graduating
+        she freelanced as an arts administrative in organisations who specialise working with young
+        people such as Wac Arts, Step Into Dance and Community Focus. Rebecca went on to apply for
+        the role of Impact Youth Academy manager. On successfully being appointed with this organisation,
+        Rebecca has been coordinating the youth academy for the past 6 months exhibiting strong
+        organizational skills and efficiency in running the academy. Her knowledge of young people and
         expertise in liaising with parents puts her in as strong position to support this project as a
         participation manager.</p>
       </div>
@@ -92,7 +92,7 @@
         <h2 class="mb-5">Authenticity Inaugural Company</h2>
       </div>
         <p class="lead mb-5">
-        We have dancers from the following London Boroughs: 
+        We have dancers from the following London Boroughs:
         <br>
         Kensington & Chelsea
         <br>
@@ -133,11 +133,11 @@
           <br>
           <strong>Duration: </strong>12 minutes
           <br>
-          <strong>Description: </strong> Youth are depicted as a fast-paced Society, moving 
-          at speed causing them to ‘miss’ details about their environment and the people 
-          around them. With an interjection, they are forced to slow down, enabling them to 
-          notice their surroundings. Notice leads to observation-observation may lead to focus. 
-          Resulting in stillness – this creates a sense of empathy which may reverberate 
+          <strong>Description: </strong> Youth are depicted as a fast-paced Society, moving
+          at speed causing them to ‘miss’ details about their environment and the people
+          around them. With an interjection, they are forced to slow down, enabling them to
+          notice their surroundings. Notice leads to observation-observation may lead to focus.
+          Resulting in stillness – this creates a sense of empathy which may reverberate
           through individuals.
         </p>
       </div>
@@ -170,8 +170,16 @@
         <a class="portfolio-item" href="#">
           <span class="caption">
             <span class="caption-content">
-              <h2>Stationary</h2>
-              <p class="mb-0">A yellow pencil with envelopes on a clean, blue backdrop!</p>
+              <h2>Aimee Grindle</h2>
+              <p class="mb-0">
+                <strong>Age: </strong>12
+                <br>
+                <strong>Borough: </strong>Lambeth
+                <br>
+                <strong>Favourite Food: </strong>Spag Bol
+                <br>
+                <strong>Interesting Fact: </strong>Aimee likes to skateboard when not dancing
+              </p>
             </span>
           </span>
           <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/portfolio-1.jpg'; ?>" alt="">
@@ -181,8 +189,16 @@
         <a class="portfolio-item" href="#">
           <span class="caption">
             <span class="caption-content">
-              <h2>Ice Cream</h2>
-              <p class="mb-0">A dark blue background with a colored pencil, a clip, and a tiny ice cream cone!</p>
+              <h2>Bethanie Gbocho</h2>
+              <p class="mb-0">
+                <strong>Age: </strong>16
+                <br>
+                <strong>Borough: </strong>Lambeth
+                <br>
+                <strong>Favourite Food: </strong>Pizza
+                <br>
+                <strong>Interesting Fact: </strong>Bethanie is also on the CAT Programme at The Place
+              </p>
             </span>
           </span>
           <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/portfolio-2.jpg'; ?>" alt="">
@@ -192,8 +208,16 @@
         <a class="portfolio-item" href="#">
           <span class="caption">
             <span class="caption-content">
-              <h2>Strawberries</h2>
-              <p class="mb-0">Strawberries are such a tasty snack, especially with a little sugar on top!</p>
+              <h2>Chloe Lanisquot</h2>
+              <p class="mb-0">
+                <strong>Age: </strong>16
+                <br>
+                <strong>Borough: </strong>Kensington
+                <br>
+                <strong>Favourite Food: </strong>Burgers
+                <br>
+                <strong>Interesting Fact: </strong>Chloe is currently studying at Urdang
+              </p>
             </span>
           </span>
           <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/portfolio-3.jpg'; ?>" alt="">
@@ -203,8 +227,183 @@
         <a class="portfolio-item" href="#">
           <span class="caption">
             <span class="caption-content">
-              <h2>Workspace</h2>
-              <p class="mb-0">A yellow workspace with some scissors, pencils, and other objects.</p>
+              <h2>Ciar Wild</h2>
+              <p class="mb-0">
+                <strong>Age: </strong>15
+                <br>
+                <strong>Borough: </strong>Hackney
+                <br>
+                <strong>Favourite Food: </strong>Pepper
+                <br>
+                <strong>Interesting Fact: </strong>Ciar means Saint in Irish
+              </p>
+            </span>
+          </span>
+          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/portfolio-4.jpg'; ?>" alt="">
+        </a>
+      </div>
+      <div class="col-lg-6">
+        <a class="portfolio-item" href="#">
+          <span class="caption">
+            <span class="caption-content">
+              <h2>D'Andre Elizah</h2>
+              <p class="mb-0">
+                <strong>Age: </strong>17
+                <br>
+                <strong>Borough: </strong>Newham
+                <br>
+                <strong>Favourite Food: </strong>Macroni and Fried Chicken
+                <br>
+                <strong>Interesting Fact: </strong>Money doesn't stay in D'Andre's bank
+              </p>
+            </span>
+          </span>
+          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/portfolio-1.jpg'; ?>" alt="">
+        </a>
+      </div>
+      <div class="col-lg-6">
+        <a class="portfolio-item" href="#">
+          <span class="caption">
+            <span class="caption-content">
+              <h2>Danielle Okwabi</h2>
+              <p class="mb-0">
+                <strong>Age: </strong>17
+                <br>
+                <strong>Borough: </strong>Newham
+                <br>
+                <strong>Favourite Food: </strong>Salt fish fritters
+                <br>
+                <strong>Interesting Fact: </strong>Dani can Irish Dance
+              </p>
+            </span>
+          </span>
+          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/portfolio-2.jpg'; ?>" alt="">
+        </a>
+      </div>
+      <div class="col-lg-6">
+        <a class="portfolio-item" href="#">
+          <span class="caption">
+            <span class="caption-content">
+              <h2>Destiny Onyemerekwe</h2>
+              <p class="mb-0">
+                <strong>Age: </strong>13
+                <br>
+                <strong>Borough: </strong>Croydon
+                <br>
+                <strong>Favourite Food: </strong>Pizza
+                <br>
+                <strong>Interesting Fact: </strong>Destiny also dances with Flawless
+              </p>
+            </span>
+          </span>
+          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/portfolio-3.jpg'; ?>" alt="">
+        </a>
+      </div>
+      <div class="col-lg-6">
+        <a class="portfolio-item" href="#">
+          <span class="caption">
+            <span class="caption-content">
+              <h2>Francesca Costaliola</h2>
+              <p class="mb-0">
+                <strong>Age: </strong>12
+                <br>
+                <strong>Borough: </strong>Hackney
+                <br>
+                <strong>Favourite Food: </strong>Pizza
+                <br>
+                <strong>Interesting Fact: </strong>Francesca is half Columbian half Italian
+             </p>
+            </span>
+          </span>
+          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/portfolio-4.jpg'; ?>" alt="">
+        </a>
+      </div>
+      <div class="col-lg-6">
+        <a class="portfolio-item" href="#">
+          <span class="caption">
+            <span class="caption-content">
+              <h2>Nana Asante</h2>
+              <p class="mb-0">
+                <strong>Age: </strong>14
+                <br>
+                <strong>Borough: </strong>Southwark
+                <br>
+                <strong>Favourite Food: </strong>Meatfest pizza
+              </p>
+            </span>
+          </span>
+          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/portfolio-4.jpg'; ?>" alt="">
+        </a>
+      </div>
+      <div class="col-lg-6">
+        <a class="portfolio-item" href="#">
+          <span class="caption">
+            <span class="caption-content">
+              <h2>Nia James</h2>
+              <p class="mb-0">
+                <strong>Age: </strong>18
+                <br>
+                <strong>Borough: </strong>Middlesex
+                <br>
+                <strong>Interesting Fact: </strong>Nia is originally from Wales
+              </p>
+            </span>
+          </span>
+          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/portfolio-1.jpg'; ?>" alt="">
+        </a>
+      </div>
+      <div class="col-lg-6">
+        <a class="portfolio-item" href="#">
+          <span class="caption">
+            <span class="caption-content">
+              <h2>Osato Eghi-Guobadia</h2>
+              <p class="mb-0">
+                <strong>Age: </strong>14
+                <br>
+                <strong>Borough: </strong>Greenwich
+                <br>
+                <strong>Favourite Food: </strong>Chinese
+                <br>
+                <strong>Interesting Fact: </strong>Is our artist for our first piece Transient</p>
+            </span>
+          </span>
+          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/portfolio-2.jpg'; ?>" alt="">
+        </a>
+      </div>
+      <div class="col-lg-6">
+        <a class="portfolio-item" href="#">
+          <span class="caption">
+            <span class="caption-content">
+              <h2>Sheron Samm-Esprit</h2>
+              <p class="mb-0">
+                <strong>Age: </strong>16
+                <br>
+                <strong>Borough: </strong>Southwark
+                <br>
+                <strong>Favourite Food: </strong>Pizza
+                <br>
+                <strong>Interesting Fact: </strong>Sheron is studying Health and Social Care
+                </p>
+              </p>
+            </span>
+          </span>
+          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/portfolio-3.jpg'; ?>" alt="">
+        </a>
+      </div>
+      <div class="col-lg-6">
+        <a class="portfolio-item" href="#">
+          <span class="caption">
+            <span class="caption-content">
+              <h2>Tyra Egbri</h2>
+              <p class="mb-0">
+                <strong>Age: </strong>14
+                <br>
+                <strong>Borough: </strong>Lambeth
+                <br>
+                <strong>Favourite Food: </strong>Chicken
+                <br>
+                <strong>Interesting Fact: </strong>Tyra used to dance with The Royal Ballet
+              </p>
             </span>
           </span>
           <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/portfolio-4.jpg'; ?>" alt="">
