@@ -32,7 +32,7 @@
     <div class="row">
       <div class="col-lg-4 col-md-6 mb-5 mb-lg-0">
         <div class="circular-img mx-auto mb-3">
-          <img src="<?php echo get_template_directory_uri() . '/img/IMG_3504.JPG'; ?>">
+          <img src="<?php echo get_template_directory_uri() . '/img/IMG_3504.png'; ?>">
         </div>
         <h4>
           <strong>Hakeem Onibudo</strong>
@@ -46,13 +46,13 @@
         </p>
       </div>
       <div class="col-lg-4 col-md-6 mb-5 mb-lg-0">
-      <div class="circular-img mx-auto mb-3">
-          <img src="<?php echo get_template_directory_uri() . '/img/Paige_Jarrett.jpg'; ?>">
+        <div class="circular-img mx-auto mb-3">
+          <img src="<?php echo get_template_directory_uri() . '/img/Paige_Jarrett.png'; ?>">
         </div>
         <h4>
           <strong>Paige Jarrett</strong>
         </h4>
-        <h5>Operations Manager</h5>
+        <h5>Creative Producer</h5>
         <p class="text-faded mb-0">Paige Jarrett is a graduate from Kingston University and has
         been working alongside Onibudo as the Trainee Producer at The Place on the Arts Council
         Funded Changemakers Programme for the last eight months September 2017 - April 2018.
@@ -64,7 +64,7 @@
       </div>
       <div class="col-lg-4 col-md-6 mb-5 mb-md-0">
       <div class="circular-img mx-auto mb-3">
-          <img src="<?php echo get_template_directory_uri() . '/img/Rebecca_Leslie.jpg'; ?>">
+          <img src="<?php echo get_template_directory_uri() . '/img/Rebecca_Leslie.png'; ?>">
         </div>
         <h4>
           <strong>Rebecca Leslie</strong>
@@ -182,7 +182,7 @@
               </p>
             </span>
           </span>
-          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/portfolio-1.jpg'; ?>" alt="">
+          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/Aimee_Grindle.png'; ?>" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -197,11 +197,11 @@
                 <br>
                 <strong>Favourite Food: </strong>Pizza
                 <br>
-                <strong>Interesting Fact: </strong>Bethanie is also on the CAT Programme at The Place
+                <strong>Interesting Fact: </strong>Bethanie had a birthmark that actually looks like africa on the map
               </p>
             </span>
           </span>
-          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/portfolio-2.jpg'; ?>" alt="">
+          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/Bethanie_Gbocho.png'; ?>" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -220,7 +220,7 @@
               </p>
             </span>
           </span>
-          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/portfolio-3.jpg'; ?>" alt="">
+          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/Chloe_Lanisquot.png'; ?>" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -239,7 +239,7 @@
               </p>
             </span>
           </span>
-          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/portfolio-4.jpg'; ?>" alt="">
+          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/Ciar_Wild.png'; ?>" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -258,7 +258,7 @@
               </p>
             </span>
           </span>
-          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/portfolio-1.jpg'; ?>" alt="">
+          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/DAndre_Elizah.png'; ?>" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -277,7 +277,7 @@
               </p>
             </span>
           </span>
-          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/portfolio-2.jpg'; ?>" alt="">
+          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/Danielle_Okwabi.png'; ?>" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -296,7 +296,7 @@
               </p>
             </span>
           </span>
-          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/portfolio-3.jpg'; ?>" alt="">
+          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/Destiny_Onyemerekwe.png'; ?>" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -315,7 +315,7 @@
              </p>
             </span>
           </span>
-          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/portfolio-4.jpg'; ?>" alt="">
+          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/Francesca_Costaliola.png'; ?>" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -330,11 +330,11 @@
                 <br>
                 <strong>Favourite Food: </strong>Meatfest pizza
                 <br>
-                <strong>Interesting Fact: </strong>
+                <strong>Interesting Fact: </strong>Nana can speak 5 different languages. English, Twi, Deutsch, French, Portuguese
               </p>
             </span>
           </span>
-          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/portfolio-4.jpg'; ?>" alt="">
+          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/Nana_Asante.png'; ?>" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -347,13 +347,13 @@
                 <br>
                 <strong>Borough: </strong>Middlesex
                 <br>
-                <strong>Favourite Food: </strong>
+                <strong>Favourite Food: Burger</strong>
                 <br>
                 <strong>Interesting Fact: </strong>Nia is originally from Wales
               </p>
             </span>
           </span>
-          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/portfolio-1.jpg'; ?>" alt="">
+          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/Nia_James.png'; ?>" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -371,7 +371,7 @@
                 <strong>Interesting Fact: </strong>Is our artist for our first piece Transient</p>
             </span>
           </span>
-          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/portfolio-2.jpg'; ?>" alt="">
+          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/Osato_Eghi-Guobadia.png'; ?>" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -391,7 +391,7 @@
               </p>
             </span>
           </span>
-          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/portfolio-3.jpg'; ?>" alt="">
+          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/Sheron_Samm-Esprit.png'; ?>" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -410,8 +410,23 @@
               </p>
             </span>
           </span>
-          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/portfolio-4.jpg'; ?>" alt="">
+          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/Tyra_Egbri.png'; ?>" alt="">
         </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Sponsors -->
+<section class="content-section bg-light" id="company">
+  <div class="container text-center">
+    <div class="row">
+      <div class="col-lg-10 mx-auto">
+      <div class="content-section-heading">
+        <div class="half-width mx-auto mb-3">
+          <img src="<?php echo get_template_directory_uri() . '/img/lottery_Logo_Black-RGB.png'; ?>">
+        </div>
+      </div>
       </div>
     </div>
   </div>

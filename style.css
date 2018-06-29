@@ -380,3 +380,7 @@ a:hover, a:focus, a:active {
   height: 200px;
   border-radius: 100%;
 }
+
+.half-width img {
+  width: 50%;
+}
