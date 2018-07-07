@@ -182,7 +182,7 @@
               </p>
             </span>
           </span>
-          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/Aimee_Grindle.png'; ?>" alt="">
+          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/06/Aimee_Grindle.png" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -201,7 +201,7 @@
               </p>
             </span>
           </span>
-          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/Bethanie_Gbocho.png'; ?>" alt="">
+          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/06/Bethanie_Gbocho.png" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -220,7 +220,7 @@
               </p>
             </span>
           </span>
-          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/Chloe_Lanisquot.png'; ?>" alt="">
+          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/06/Chloe_Lanisquot.png" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -239,7 +239,7 @@
               </p>
             </span>
           </span>
-          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/Ciar_Wild.png'; ?>" alt="">
+          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/06/Ciar_Wild.png" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -258,7 +258,7 @@
               </p>
             </span>
           </span>
-          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/DAndre_Elizah.png'; ?>" alt="">
+          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/06/DAndre_Elizah.png" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -277,7 +277,7 @@
               </p>
             </span>
           </span>
-          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/Danielle_Okwabi.png'; ?>" alt="">
+          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/06/Danielle_Okwabi.png" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -296,7 +296,7 @@
               </p>
             </span>
           </span>
-          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/Destiny_Onyemerekwe.png'; ?>" alt="">
+          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/06/Destiny_Onyemerekwe.png" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -315,7 +315,7 @@
              </p>
             </span>
           </span>
-          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/Francesca_Costaliola.png'; ?>" alt="">
+          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/06/Francesca_Costaliola.png" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -330,11 +330,11 @@
                 <br>
                 <strong>Favourite Food: </strong>Meatfest pizza
                 <br>
-                <strong>Interesting Fact: </strong>Nana can speak 5 different languages. English, Twi, Deutsch, French, Portuguese
+                <strong>Interesting Fact: </strong>
               </p>
             </span>
           </span>
-          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/Nana_Asante.png'; ?>" alt="">
+          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/06/Nana_Asante.png" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -353,7 +353,7 @@
               </p>
             </span>
           </span>
-          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/Nia_James.png'; ?>" alt="">
+          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/06/Nia_James.png" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -371,7 +371,7 @@
                 <strong>Interesting Fact: </strong>Is our artist for our first piece Transient</p>
             </span>
           </span>
-          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/Osato_Eghi-Guobadia.png'; ?>" alt="">
+          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/06/Osato_Eghi-Guobadia.png" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -391,7 +391,7 @@
               </p>
             </span>
           </span>
-          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/Sheron_Samm-Esprit.png'; ?>" alt="">
+          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/06/Sheron_Samm-Esprit.png" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -410,7 +410,7 @@
               </p>
             </span>
           </span>
-          <img class="img-fluid" src="<?php echo get_template_directory_uri() . '/img/Tyra_Egbri.png'; ?>" alt="">
+          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/06/Tyra_Egbri.png" alt="">
         </a>
       </div>
     </div>

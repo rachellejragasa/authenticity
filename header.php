@@ -11,7 +11,7 @@
     <title>Authenticity Dance Company</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="<?php echo get_template_directory_uri() . '/vendor/bootstrap/css/bootstrap.min.css'; ?>" rel="stylesheet">
+    <link href="<?php echo get_template_directory_uri() . '/vendor/bootstrap/css/bootstrap.min.css'; ?>" as="style" rel="stylesheet">
 
     <!-- Custom Fonts -->
     <link href="<?php echo get_template_directory_uri() . '/vendor/font-awesome/css/font-awesome.min.css'; ?>" rel="stylesheet" type="text/css">
