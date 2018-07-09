@@ -32,7 +32,7 @@
     <div class="row">
       <div class="col-lg-4 col-md-6 mb-5 mb-lg-0">
         <div class="circular-img mx-auto mb-3">
-          <img src="<?php echo get_template_directory_uri() . '/img/IMG_3504.png'; ?>">
+          <img src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/IMG_3504.png">
         </div>
         <h4>
           <strong>Hakeem Onibudo</strong>
@@ -47,7 +47,7 @@
       </div>
       <div class="col-lg-4 col-md-6 mb-5 mb-lg-0">
         <div class="circular-img mx-auto mb-3">
-          <img src="<?php echo get_template_directory_uri() . '/img/Paige_Jarrett.png'; ?>">
+          <img src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/Paige_Jarrett-1.png">
         </div>
         <h4>
           <strong>Paige Jarrett</strong>
@@ -64,7 +64,7 @@
       </div>
       <div class="col-lg-4 col-md-6 mb-5 mb-md-0">
       <div class="circular-img mx-auto mb-3">
-          <img src="<?php echo get_template_directory_uri() . '/img/Rebecca_Leslie.png'; ?>">
+          <img src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/Rebecca_Leslie-1.png">
         </div>
         <h4>
           <strong>Rebecca Leslie</strong>
@@ -182,7 +182,7 @@
               </p>
             </span>
           </span>
-          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/06/Aimee_Grindle.png" alt="">
+          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/Aimee_Grindle.png" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -201,7 +201,7 @@
               </p>
             </span>
           </span>
-          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/06/Bethanie_Gbocho.png" alt="">
+          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/Bethanie_Gbocho.png" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -220,7 +220,7 @@
               </p>
             </span>
           </span>
-          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/06/Chloe_Lanisquot.png" alt="">
+          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/Chloe_Lanisquot.png" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -239,7 +239,7 @@
               </p>
             </span>
           </span>
-          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/06/Ciar_Wild.png" alt="">
+          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/Ciar_Wild.png" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -258,7 +258,7 @@
               </p>
             </span>
           </span>
-          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/06/DAndre_Elizah.png" alt="">
+          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/DAndre_Elizah.png" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -277,7 +277,7 @@
               </p>
             </span>
           </span>
-          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/06/Danielle_Okwabi.png" alt="">
+          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/Danielle_Okwabi.png" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -296,7 +296,7 @@
               </p>
             </span>
           </span>
-          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/06/Destiny_Onyemerekwe.png" alt="">
+          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/Destiny_Onyemerekwe.png" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -315,7 +315,7 @@
              </p>
             </span>
           </span>
-          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/06/Francesca_Costaliola.png" alt="">
+          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/Francesca_Costaliola.png" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -334,7 +334,7 @@
               </p>
             </span>
           </span>
-          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/06/Nana_Asante.png" alt="">
+          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/Nana_Asante.png" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -353,7 +353,7 @@
               </p>
             </span>
           </span>
-          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/06/Nia_James.png" alt="">
+          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/Nia_James.png" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -371,7 +371,7 @@
                 <strong>Interesting Fact: </strong>Is our artist for our first piece Transient</p>
             </span>
           </span>
-          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/06/Osato_Eghi-Guobadia.png" alt="">
+          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/Osato_Eghi-Guobadia.png" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -391,7 +391,7 @@
               </p>
             </span>
           </span>
-          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/06/Sheron_Samm-Esprit.png" alt="">
+          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/Sheron_Samm-Esprit.png" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -410,7 +410,7 @@
               </p>
             </span>
           </span>
-          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/06/Tyra_Egbri.png" alt="">
+          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/Tyra_Egbri.png" alt="">
         </a>
       </div>
     </div>
@@ -424,7 +424,7 @@
       <div class="col-lg-10 mx-auto">
       <div class="content-section-heading">
         <div class="half-width mx-auto mb-3">
-          <img src="<?php echo get_template_directory_uri() . '/img/lottery_Logo_Black-RGB.png'; ?>">
+          <img src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/lottery_Logo_Black-RGB.png">
         </div>
       </div>
       </div>
