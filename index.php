@@ -31,7 +31,7 @@
       <h2 class="mb-5">About the Team</h2>
     </div>
     <div class="row">
-      <div class="col-lg-4 col-md-6 mb-5 mb-lg-0">
+      <div class="col-lg-10 mb-5 mb-lg-0 mx-auto">
         <div class="circular-img mx-auto mb-3">
           <img src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/IMG_3504.png">
         </div>
@@ -49,7 +49,7 @@
         Beyond his work in the dance community, Hakeem is an experienced and professional event host who regularly presents and entertains on high profile London events including red carpet film premieres.
         </p>
       </div>
-      <div class="col-lg-4 col-md-6 mb-5 mb-lg-0">
+      <div class="col-lg-10 mb-5 mb-lg-0 mx-auto">
         <div class="circular-img mx-auto mb-3">
           <img src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/Paige_Jarrett.png">
         </div>
@@ -66,7 +66,7 @@
         one of the new leaders in the arts and can easily fill the role of any creative producer
         within any  high level arts organisation.</p>
       </div>
-      <div class="col-lg-4 col-md-6 mb-5 mb-md-0">
+      <div class="col-lg-10 mb-5 mb-md-0 mx-auto">
       <div class="circular-img mx-auto mb-3">
           <img src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/Rebecca_Leslie.png">
         </div>
