@@ -188,7 +188,7 @@
                 <br>
                 <strong>Favourite Food: </strong>Pizza
                 <br>
-                <strong>Interesting Fact: </strong>Bethanie has a birthmark that actually looks like africa on the map
+                <strong>Interesting Fact: </strong>Bethanie has a birthmark that looks like Africa
               </p>
             </span>
           </span>
@@ -226,7 +226,7 @@
                 <br>
                 <strong>Favourite Food: </strong>Pepper
                 <br>
-                <strong>Interesting Fact: </strong>Ciar means Saint in Irish
+                <strong>Interesting Fact: </strong>Ciar means 'Saint' in Irish
               </p>
             </span>
           </span>
@@ -264,7 +264,7 @@
                 <br>
                 <strong>Favourite Food: </strong>Salt fish fritters
                 <br>
-                <strong>Interesting Fact: </strong>Dani can Irish Dance
+                <strong>Interesting Fact: </strong>Dani is also an Irish dancer
               </p>
             </span>
           </span>
@@ -283,7 +283,7 @@
                 <br>
                 <strong>Favourite Food: </strong>Pizza
                 <br>
-                <strong>Interesting Fact: </strong>Destiny also dances with Flawless
+                <strong>Interesting Fact: </strong>Destiny also dances with the renewed Street Dance Company ‘Flawless’
               </p>
             </span>
           </span>
@@ -302,7 +302,7 @@
                 <br>
                 <strong>Favourite Food: </strong>Pizza
                 <br>
-                <strong>Interesting Fact: </strong>Francesca is half Columbian half Italian
+                <strong>Interesting Fact: </strong>Francesca has half Columbian and half Italian heritage
              </p>
             </span>
           </span>
@@ -338,7 +338,7 @@
                 <br>
                 <strong>Borough: </strong>Middlesex
                 <br>
-                <strong>Favourite Food: Burger</strong>
+                <strong>Favourite Food: Burgers</strong>
                 <br>
                 <strong>Interesting Fact: </strong>Nia is originally from Wales
               </p>
@@ -377,7 +377,7 @@
                 <br>
                 <strong>Favourite Food: </strong>Pizza
                 <br>
-                <strong>Interesting Fact: </strong>Sheron is studying Health and Social Care
+                <strong>Interesting Fact: </strong>Sheron is currently studying Health and Social Care
                 </p>
               </p>
             </span>
