@@ -42,9 +42,12 @@
         <p class="lead mb-5">
         Since 1995 Hakeem Onibudo has been an influential force within the international dance community. An accomplished artistic director and founder of Impact Dance, Hakeem is a choreographer, performer, mentor and British Council ambassador. His portfolio includes work for organisations such as the The Royal Ballet School, The Royal Opera House, Sadler’s Wells, the British Council, the BBC, Nickelodeon, CH4, Endemol, ITV and the Duke of Edinburgh Awards.
         <br>
+        <br>
         Impact Youth has been a foundation of the Impact Dance Company since its inaugural year. From there it has grown to be one of the most successful street dance youth companies of its time. Working with young people aged 11 – 17 to create narrative dance theatre pieces combining a range of different styles including hip-hop, street dance, contemporary movement and physical theatre.
         <br>
+        <br>
         Hakeem recently received the CHANGEMAKERS award from Arts Council England, which allows him to lead on a number of projects at The Place which aim to increase the number of Black, Asian and minority ethnic people who engage with the organisation. To date at The Place, Hakeem has produced Tuned-In sessions for young dancers and musicians to engage with each other, as well as two LIVEVIBE shows with more events coming this Autumn.
+        <br>
         <br>
         Beyond his work in the dance community, Hakeem is an experienced and professional event host who regularly presents and entertains on high profile London events including red carpet film premieres.
         </p>
