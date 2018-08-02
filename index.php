@@ -9,14 +9,14 @@
         <h2 class="mb-5">About the Company</h2>
       </div>
         <p class="lead mb-5">
-        Authenticity is a brand new exciting company for talented young authentic dancers aged 11-
-        18 to represent London. The aim is to highlight the elite dance talent within London, provide
-        performance opportunities that are accessible and affordable as well as nurture a safe and
-        creative environment to train and grow within dance.
-        For their opening works, dancers are working alongside the Impact Dance creative team to
-        create a 15-minute piece of work, which will be performed outdoors at this year’s ‘Dancing
-        City’(Greenwich Docklands International Festival) and ‘Imagine Watford’ (Watford Palace
-        Theatre) at the end of June/beginning of July 2018.
+        Authenticity is a brand new exciting company for talented young authentic dancers aged 11- 18 to represent London.
+        As the project is rolled out over the next 2-3 years our aim is to engage talented young dancers from all 33 boroughs of London.
+        <br>
+        We highlight the elite dance talent within London, provide performance opportunities that are accessible and affordable as well as, nurture a safe and creative environment for young people to train and grow within dance.
+        In just a few short months we have formed the company with a cohort of 14 young dancers we have also received funding from Arts Council England to support us with developing the company until July 2019, and secured various performance opportunities for our debut work.
+        The debut work ‘Transient’ is a 13 minute piece choreographed by the Impact Dance team and commissioned by Greenwich+Docklands International Festival and Imagine Watford.
+        <br>
+        From September we will be working with a brand new choreographer to create a new work to be performed in 2019.
         </p>
       </div>
     </div>
@@ -24,9 +24,10 @@
 </section>
 
 <!-- About the Team -->
-<section class="content-section bg-primary text-white text-center" id="about-the-team">
+<section class="content-section text-center" id="about-the-team">
   <div class="container">
     <div class="content-section-heading">
+      <h3 class="text-secondary mb-0">Team Profile</h3>
       <h2 class="mb-5">About the Team</h2>
     </div>
     <div class="row">
@@ -38,22 +39,25 @@
           <strong>Hakeem Onibudo</strong>
         </h4>
         <h5>Executive Director </h5>
-        <p class="text-faded mb-0">
-        Impact Dance founder, British Council Ambassador, Movie Premiere Host – Suicide Squad,
-        Star Wars The Last Jedi, The Force Awakens and Fast and Furious 6 to name a few,
-        Breakin’ Convention, LIVEVIBE and most recently Associate Producer at The Place on the
-        Arts Council funded Changemakers programme.
+        <p class="lead mb-5">
+        Since 1995 Hakeem Onibudo has been an influential force within the international dance community. An accomplished artistic director and founder of Impact Dance, Hakeem is a choreographer, performer, mentor and British Council ambassador. His portfolio includes work for organisations such as the The Royal Ballet School, The Royal Opera House, Sadler’s Wells, the British Council, the BBC, Nickelodeon, CH4, Endemol, ITV and the Duke of Edinburgh Awards.
+        <br>
+        Impact Youth has been a foundation of the Impact Dance Company since its inaugural year. From there it has grown to be one of the most successful street dance youth companies of its time. Working with young people aged 11 – 17 to create narrative dance theatre pieces combining a range of different styles including hip-hop, street dance, contemporary movement and physical theatre.
+        <br>
+        Hakeem recently received the CHANGEMAKERS award from Arts Council England, which allows him to lead on a number of projects at The Place which aim to increase the number of Black, Asian and minority ethnic people who engage with the organisation. To date at The Place, Hakeem has produced Tuned-In sessions for young dancers and musicians to engage with each other, as well as two LIVEVIBE shows with more events coming this Autumn.
+        <br>
+        Beyond his work in the dance community, Hakeem is an experienced and professional event host who regularly presents and entertains on high profile London events including red carpet film premieres.
         </p>
       </div>
       <div class="col-lg-4 col-md-6 mb-5 mb-lg-0">
         <div class="circular-img mx-auto mb-3">
-          <img src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/Paige_Jarrett-1.png">
+          <img src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/Paige_Jarrett.png">
         </div>
         <h4>
           <strong>Paige Jarrett</strong>
         </h4>
         <h5>Creative Producer</h5>
-        <p class="text-faded mb-0">Paige Jarrett is a graduate from Kingston University and has
+        <p class="lead mb-5">Paige Jarrett is a graduate from Kingston University and has
         been working alongside Onibudo as the Trainee Producer at The Place on the Arts Council
         Funded Changemakers Programme for the last eight months September 2017 - April 2018.
         Paige has also worked on Ignition Dance Festival produced by DanceWest (2016 - 2018).
@@ -64,13 +68,13 @@
       </div>
       <div class="col-lg-4 col-md-6 mb-5 mb-md-0">
       <div class="circular-img mx-auto mb-3">
-          <img src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/Rebecca_Leslie-1.png">
+          <img src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/Rebecca_Leslie.png">
         </div>
         <h4>
           <strong>Rebecca Leslie</strong>
         </h4>
         <h5>Participation Manager</h5>
-        <p class="text-faded mb-0">Rebecca Leslie trained at London Studio Centre. After graduating
+        <p class="lead mb-5">Rebecca Leslie trained at London Studio Centre. After graduating
         she freelanced as an arts administrative in organisations who specialise working with young
         people such as Wac Arts, Step Into Dance and Community Focus. Rebecca went on to apply for
         the role of Impact Youth Academy manager. On successfully being appointed with this organisation,
@@ -84,7 +88,7 @@
 </section>
 
 <!-- Authenticity Inaugural Company -->
-<section class="content-section bg-light" id="company">
+<section class="content-section bg-primary text-white text-center" id="company">
   <div class="container text-center">
     <div class="row">
       <div class="col-lg-10 mx-auto">
@@ -118,7 +122,7 @@
 </section>
 
 <!-- Current Work -->
-<section class="content-section" id="current-work">
+<section class="content-section bg-light" id="current-work">
   <div class="container text-center">
     <div class="row">
       <div class="col-lg-10 mx-auto">
@@ -127,11 +131,11 @@
         <h2 class="mb-5">Current Work</h2>
       </div>
         <p class="lead mb-5">
-          <strong>Choreographers:</strong> Rachel Greer, Hakeem Onibudo and Keanu Wilson
+          <strong>Choreographers:</strong> Hakeem Onibudo, Keanu Wilson and Rachel Greer
           <br>
           <strong>Name: </strong>Transient
           <br>
-          <strong>Duration: </strong>12 minutes
+          <strong>Duration: </strong>13 minutes
           <br>
           <strong>Description: </strong> Youth are depicted as a fast-paced Society, moving
           at speed causing them to ‘miss’ details about their environment and the people
@@ -140,19 +144,6 @@
           Resulting in stillness – this creates a sense of empathy which may reverberate
           through individuals.
         </p>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- Testimonial -->
-<section class="content-section bg-primary text-white text-center" id="testimonials">
-  <div class="container text-center">
-    <div class="row">
-      <div class="col-lg-10 mx-auto">
-      <div class="content-section-heading">
-        <h2 class="mb-5">Testimonials</h2>
-      </div>
       </div>
     </div>
   </div>
@@ -182,7 +173,7 @@
               </p>
             </span>
           </span>
-          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/Aimee_Grindle.png" alt="">
+          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/Aimee_Grindle.jpg" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -197,11 +188,11 @@
                 <br>
                 <strong>Favourite Food: </strong>Pizza
                 <br>
-                <strong>Interesting Fact: </strong>Bethanie had a birthmark that actually looks like africa on the map
+                <strong>Interesting Fact: </strong>Bethanie has a birthmark that actually looks like africa on the map
               </p>
             </span>
           </span>
-          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/Bethanie_Gbocho.png" alt="">
+          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/Bethanie_Gbocho.jpg" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -212,15 +203,15 @@
               <p class="mb-0">
                 <strong>Age: </strong>16
                 <br>
-                <strong>Borough: </strong>Kensington
+                <strong>Borough: </strong>Kensington & Chelsea
                 <br>
                 <strong>Favourite Food: </strong>Burgers
                 <br>
-                <strong>Interesting Fact: </strong>Chloe is currently studying at Urdang
+                <strong>Interesting Fact: </strong>Chloe is currently studying at The Urdang Academy
               </p>
             </span>
           </span>
-          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/Chloe_Lanisquot.png" alt="">
+          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/Chloe_Lanisquot.jpg" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -239,7 +230,7 @@
               </p>
             </span>
           </span>
-          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/Ciar_Wild.png" alt="">
+          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/Ciar_Wild.jpg" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -252,13 +243,13 @@
                 <br>
                 <strong>Borough: </strong>Newham
                 <br>
-                <strong>Favourite Food: </strong>Macroni and Fried Chicken
+                <strong>Favourite Food: </strong>Macaroni and Fried Chicken
                 <br>
                 <strong>Interesting Fact: </strong>Money doesn't stay in D'Andre's bank
               </p>
             </span>
           </span>
-          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/DAndre_Elizah.png" alt="">
+          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/DAndre_Elizah.jpg" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -277,7 +268,7 @@
               </p>
             </span>
           </span>
-          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/Danielle_Okwabi.png" alt="">
+          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/Danielle_Okwabi.jpg" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -296,7 +287,7 @@
               </p>
             </span>
           </span>
-          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/Destiny_Onyemerekwe.png" alt="">
+          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/Destiny_Onyemerekwe.jpg" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -315,7 +306,7 @@
              </p>
             </span>
           </span>
-          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/Francesca_Costaliola.png" alt="">
+          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/Francesca_Costaliola.jpg" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -330,11 +321,11 @@
                 <br>
                 <strong>Favourite Food: </strong>Meatfest pizza
                 <br>
-                <strong>Interesting Fact: </strong>
+                <strong>Interesting Fact: </strong>Nana can speak 5 different languages. English, Twi, Deutsch, French, Portuguese
               </p>
             </span>
           </span>
-          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/Nana_Asante.png" alt="">
+          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/Nana_Asante.jpg" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -353,7 +344,7 @@
               </p>
             </span>
           </span>
-          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/Nia_James.png" alt="">
+          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/Nia_James.jpg" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -368,10 +359,10 @@
                 <br>
                 <strong>Favourite Food: </strong>Chinese
                 <br>
-                <strong>Interesting Fact: </strong>Is our artist for our first piece Transient</p>
+                <strong>Interesting Fact: </strong>Osato is a mastermind at riddles.</p>
             </span>
           </span>
-          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/Osato_Eghi-Guobadia.png" alt="">
+          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/Osato_Eghi-Guobadia.jpg" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -391,7 +382,7 @@
               </p>
             </span>
           </span>
-          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/Sheron_Samm-Esprit.png" alt="">
+          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/Sheron_Samm-Esprit.jpg" alt="">
         </a>
       </div>
       <div class="col-lg-6">
@@ -410,7 +401,7 @@
               </p>
             </span>
           </span>
-          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/Tyra_Egbri.png" alt="">
+          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/07/Tyra_Egbri.jpg" alt="">
         </a>
       </div>
     </div>
