@@ -77,3 +77,20 @@ a {
     display: block;
   }
 }
+
+body {
+  --ratio: 360 / 640;
+}
+.full-width {
+  width: 100vw; // we know it will be full-width
+  height: calc(100vw * var(--ratio));
+}
+
+iframe {
+  display: block;
+  margin: 0 auto 1em;
+}
+
+section#dancers {
+  padding-bottom: 0;
+}

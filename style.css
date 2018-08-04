@@ -398,6 +398,24 @@ a:hover, a:focus, a:active {
   }
 }
 
+body {
+  --ratio: 360 / 640;
+}
+
+.full-width {
+  width: 100vw;
+  height: calc(100vw * var(--ratio));
+}
+
+iframe {
+  display: block;
+  margin: 0 auto 1em;
+}
+
+section#dancers {
+  padding-bottom: 0;
+}
+
 .circular-img img {
   max-width: 100%;
   width: 200px;
