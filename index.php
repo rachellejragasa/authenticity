@@ -2,19 +2,21 @@
 
 <!-- About the Company -->
 <section class="content-section bg-light" id="about-the-company">
-  <div class="container text-center">
+  <div class="container">
     <div class="row">
-      <div class="col-lg-10 mx-auto">
+      <div class="col-lg-10">
       <div class="content-section-heading">
-        <h2 class="mb-5">About the Company</h2>
+        <h2 class="mb-2">ABOUT THE COMPANY</h2>
       </div>
         <p class="lead mb-5">
         Authenticity is a brand new exciting company for talented young authentic dancers aged 11- 18 to represent London.
         As the project is rolled out over the next 2-3 years our aim is to engage talented young dancers from all 33 boroughs of London.
         <br>
+        <br>
         We highlight the elite dance talent within London, provide performance opportunities that are accessible and affordable as well as, nurture a safe and creative environment for young people to train and grow within dance.
         In just a few short months we have formed the company with a cohort of 14 young dancers we have also received funding from Arts Council England to support us with developing the company until July 2019, and secured various performance opportunities for our debut work.
         The debut work ‘Transient’ is a 13 minute piece choreographed by the Impact Dance team and commissioned by Greenwich+Docklands International Festival and Imagine Watford.
+        <br>
         <br>
         From September we will be working with a brand new choreographer to create a new work to be performed in 2019.
         </p>
