@@ -160,261 +160,235 @@
 
 <!-- Portfolio -->
 <section class="content-section" id="dancers">
-  <div class="container">
-    <div class="content-section-heading text-center">
-      <h3 class="text-secondary mb-0">Portfolio</h3>
-      <h2 class="mb-5">Meet the dancers</h2>
+    <div class="container">
+        <div class="content-section-heading">
+            <h3 class="text-secondary mb-0">Portfolio</h3>
+            <h2 class="mb-5">MEET THE DANCERS</h2>
+        </div>
+        <div class="row">
+            <!-- Aimee Grindle -->
+            <div class="content">
+                <div class="content-overlay"></div>
+                <img class="content-image" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/08/Aimee_Grindle.jpg"/>
+                <div class="content-details fadeIn-bottom">
+                    <h3 class="content-title text-secondary">Aimee Grindle</h3>
+                    <p class="content-text">
+                    Age: 12
+                    <br>
+                    Borough: Lambeth
+                    <br>
+                    Favourite food: Spag Bol
+                    <br>
+                    Interesting fact: Aimee likes to skateboard when not dancing
+                    </p>
+                </div>
+            </div>
+            <!-- Bethanie Gbocho -->
+            <div class="content">
+                <div class="content-overlay"></div>
+                <img class="content-image" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/08/Bethanie_Gbocho.jpg"/>
+                <div class="content-details fadeIn-bottom">
+                    <h3 class="content-title text-secondary">Bethanie Gbocho</h3>
+                    <p class="content-text">
+                    Age: 16
+                    <br>
+                    Borough: Lambeth
+                    <br>
+                    Favourite food: Piza
+                    <br>
+                    Interesting fact: Bethanie has a birthmark that looks like Africa
+                    </p>
+                </div>
+            </div>
+            <!-- Chloe Lanisquot -->
+            <div class="content">
+                <div class="content-overlay"></div>
+                <img class="content-image" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/08/Chloe_Lanisquot.jpg"/>
+                <div class="content-details fadeIn-bottom">
+                    <h3 class="content-title text-secondary">Chloe Lanisquot</h3>
+                    <p class="content-text">
+                        Age: 16
+                        <br>
+                        Borough: Kensington & Chelsea
+                        <br>
+                        Favourite Food: Burgers
+                        <br>
+                        Interesting Fact: Chloe is currently studying at The Urdang Academy
+                    </p>
+                </div>
+            </div>
+            <!-- Ciar Wild -->
+            <div class="content">
+                <div class="content-overlay"></div>
+                <img class="content-image" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/08/Ciar_Wild.jpg"/>
+                <div class="content-details fadeIn-bottom">
+                    <h3 class="content-title text-secondary">Ciar Wild</h3>
+                    <p class="content-text">
+                        Age: 15
+                        <br>
+                        Borough: Hackney
+                        <br>
+                        Favourite Food: Pepper
+                        <br>
+                        Interesting Fact: Ciar means 'Saint' in Irish
+                    </p>
+                </div>
+            </div>
+            <!-- D'Andre Elizah -->
+            <div class="content">
+                <div class="content-overlay"></div>
+                <img class="content-image" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/08/DAndre_Elizah.jpg"/>
+                <div class="content-details fadeIn-bottom">
+                    <h3 class="content-title text-secondary">D'Andre Elizah</h3>
+                    <p class="content-text">
+                        Age: 17
+                        <br>
+                        Borough: Newham
+                        <br>
+                        Favourite Food: Macaroni and Fried Chicken
+                        <br>
+                        Interesting Fact: Money doesn't stay in D'Andre's bank
+                    </p>
+                </div>
+            </div>
+            <!-- Danielle Okwabi -->
+            <div class="content">
+                <div class="content-overlay"></div>
+                <img class="content-image" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/08/Danielle_Okwabi.jpg"/>
+                <div class="content-details fadeIn-bottom">
+                    <h3 class="content-title text-secondary">Danielle Okwabi</h3>
+                    <p class="content-text">
+                        Age: 17
+                        <br>
+                        Borough: Newham
+                        <br>
+                        Favourite Food: Salt fish fritters
+                        <br>
+                        Interesting Fact: Dani is also an Irish dancer
+                    </p>
+                </div>
+            </div>
+            <!-- Destiny Onyemerekwe -->
+            <div class="content">
+                <div class="content-overlay"></div>
+                <img class="content-image" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/08/Destiny_Onyemerekwe.jpg"/>
+                <div class="content-details fadeIn-bottom">
+                    <h3 class="content-title text-secondary">Destiny Onyemerekwe</h3>
+                    <p class="content-text">
+                        Age: 13
+                        <br>
+                        Borough: Croydon
+                        <br>
+                        Favourite Food: Pizza
+                        <br>
+                        Interesting Fact: Destiny also dances with the renowned Street Dance Company ‘Flawless’
+                    </p>
+                </div>
+            </div>
+            <!-- Francesca Costaliola -->
+            <div class="content">
+                <div class="content-overlay"></div>
+                <img class="content-image" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/08/Francesca_Costaliola.jpg"/>
+                <div class="content-details fadeIn-bottom">
+                    <h3 class="content-title text-secondary">Francesca Costaliola</h3>
+                    <p class="content-text">
+                        Age: 12
+                        <br>
+                        Borough: Hackney
+                        <br>
+                        Favourite Food: Pizza
+                        <br>
+                        Interesting Fact: Francesca has half Columbian and half Italian heritage
+                    </p>
+                </div>
+            </div>
+            <!-- Nana Asante -->
+            <div class="content">
+                <div class="content-overlay"></div>
+                <img class="content-image" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/08/Nana_Asante.jpg"/>
+                <div class="content-details fadeIn-bottom">
+                    <h3 class="content-title text-secondary">Nana Asante</h3>
+                    <p class="content-text">
+                        Age: 14
+                        <br>
+                        Borough: Southwark
+                        <br>
+                        Favourite Food: Meatfest pizza
+                        <br>
+                        Interesting Fact: Nana can speak 5 different languages. English, Twi, Deutsch, French, Portuguese
+                    </p>
+                </div>
+            </div>
+            <!-- Nia James -->
+            <div class="content">
+                <div class="content-overlay"></div>
+                <img class="content-image" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/08/Nia_James.jpg"/>
+                <div class="content-details fadeIn-bottom">
+                    <h3 class="content-title text-secondary">Nia James</h3>
+                    <p class="content-text">
+                        Age: 18
+                        <br>
+                        Borough: Middlesex
+                        <br>
+                        Favourite Food: Burgers
+                        <br>
+                        Interesting Fact: Nia is originally from Wales
+                    </p>
+                </div>
+            </div>
+            <!-- Osato Eghi-Guobadia -->
+            <div class="content">
+                <div class="content-overlay"></div>
+                <img class="content-image" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/08/Osato_Eghi-Guobadia.jpg"/>
+                <div class="content-details fadeIn-bottom">
+                    <h3 class="content-title text-secondary">Osato Eghi-Guobadia</h3>
+                    <p class="content-text">
+                        Age: 14
+                        <br>
+                        Borough: Greenwich
+                        <br>
+                        Favourite Food: Chinese
+                        <br>
+                        Interesting Fact: Osato is a mastermind at riddles
+                    </p>
+                </div>
+            </div>
+            <!-- Sheron Samm-Esprit -->
+            <div class="content">
+                <div class="content-overlay"></div>
+                <img class="content-image" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/08/Sheron_Samm-Esprit.jpg"/>
+                <div class="content-details fadeIn-bottom">
+                    <h3 class="content-title text-secondary">Sheron Samm-Esprit</h3>
+                    <p class="content-text">
+                        Age: 16
+                        <br>
+                        Borough: Southwark
+                        <br>
+                        Favourite Food: Pizza
+                        <br>
+                        Interesting Fact: Sheron is currently studying Health and Social Care
+                    </p>
+                </div>
+            </div>
+            <!-- Tyra Egbri -->
+            <div class="content">
+                <div class="content-overlay"></div>
+                <img class="content-image" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/08/Tyra_Egbri.jpg"/>
+                <div class="content-details fadeIn-bottom">
+                    <h3 class="content-title text-secondary">Tyra Egbri</h3>
+                    <p class="content-text">
+                        Age: 14
+                        <br>
+                        Borough: Lambeth
+                        <br>
+                        Favourite Food: Chicken
+                        <br>
+                        Interesting Fact: Tyra used to dance with The Royal Ballet
+                    </p>
+                </div>
+            </div>
+        </div>
     </div>
-    <div class="row no-gutters">
-      <div class="col-lg-6">
-        <a class="portfolio-item" href="#">
-          <span class="caption">
-            <span class="caption-content">
-              <h2>Aimee Grindle</h2>
-              <p class="mb-0">
-                <strong>Age: </strong>12
-                <br>
-                <strong>Borough: </strong>Lambeth
-                <br>
-                <strong>Favourite Food: </strong>Spag Bol
-                <br>
-                <strong>Interesting Fact: </strong>Aimee likes to skateboard when not dancing
-              </p>
-            </span>
-          </span>
-          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/08/Aimee_Grindle.jpg" alt="">
-        </a>
-      </div>
-      <div class="col-lg-6">
-        <a class="portfolio-item" href="#">
-          <span class="caption">
-            <span class="caption-content">
-              <h2>Bethanie Gbocho</h2>
-              <p class="mb-0">
-                <strong>Age: </strong>16
-                <br>
-                <strong>Borough: </strong>Lambeth
-                <br>
-                <strong>Favourite Food: </strong>Pizza
-                <br>
-                <strong>Interesting Fact: </strong>Bethanie has a birthmark that looks like Africa
-              </p>
-            </span>
-          </span>
-          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/08/Bethanie_Gbocho.jpg" alt="">
-        </a>
-      </div>
-      <div class="col-lg-6">
-        <a class="portfolio-item" href="#">
-          <span class="caption">
-            <span class="caption-content">
-              <h2>Chloe Lanisquot</h2>
-              <p class="mb-0">
-                <strong>Age: </strong>16
-                <br>
-                <strong>Borough: </strong>Kensington & Chelsea
-                <br>
-                <strong>Favourite Food: </strong>Burgers
-                <br>
-                <strong>Interesting Fact: </strong>Chloe is currently studying at The Urdang Academy
-              </p>
-            </span>
-          </span>
-          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/08/Chloe_Lanisquot.jpg" alt="">
-        </a>
-      </div>
-      <div class="col-lg-6">
-        <a class="portfolio-item" href="#">
-          <span class="caption">
-            <span class="caption-content">
-              <h2>Ciar Wild</h2>
-              <p class="mb-0">
-                <strong>Age: </strong>15
-                <br>
-                <strong>Borough: </strong>Hackney
-                <br>
-                <strong>Favourite Food: </strong>Pepper
-                <br>
-                <strong>Interesting Fact: </strong>Ciar means 'Saint' in Irish
-              </p>
-            </span>
-          </span>
-          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/08/Ciar_Wild.jpg" alt="">
-        </a>
-      </div>
-      <div class="col-lg-6">
-        <a class="portfolio-item" href="#">
-          <span class="caption">
-            <span class="caption-content">
-              <h2>D'Andre Elizah</h2>
-              <p class="mb-0">
-                <strong>Age: </strong>17
-                <br>
-                <strong>Borough: </strong>Newham
-                <br>
-                <strong>Favourite Food: </strong>Macaroni and Fried Chicken
-                <br>
-                <strong>Interesting Fact: </strong>Money doesn't stay in D'Andre's bank
-              </p>
-            </span>
-          </span>
-          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/08/DAndre_Elizah.jpg" alt="">
-        </a>
-      </div>
-      <div class="col-lg-6">
-        <a class="portfolio-item" href="#">
-          <span class="caption">
-            <span class="caption-content">
-              <h2>Danielle Okwabi</h2>
-              <p class="mb-0">
-                <strong>Age: </strong>17
-                <br>
-                <strong>Borough: </strong>Newham
-                <br>
-                <strong>Favourite Food: </strong>Salt fish fritters
-                <br>
-                <strong>Interesting Fact: </strong>Dani is also an Irish dancer
-              </p>
-            </span>
-          </span>
-          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/08/Danielle_Okwabi.jpg" alt="">
-        </a>
-      </div>
-      <div class="col-lg-6">
-        <a class="portfolio-item" href="#">
-          <span class="caption">
-            <span class="caption-content">
-              <h2>Destiny Onyemerekwe</h2>
-              <p class="mb-0">
-                <strong>Age: </strong>13
-                <br>
-                <strong>Borough: </strong>Croydon
-                <br>
-                <strong>Favourite Food: </strong>Pizza
-                <br>
-                <strong>Interesting Fact: </strong>Destiny also dances with the renowned Street Dance Company ‘Flawless’
-              </p>
-            </span>
-          </span>
-          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/08/Destiny_Onyemerekwe.jpg" alt="">
-        </a>
-      </div>
-      <div class="col-lg-6">
-        <a class="portfolio-item" href="#">
-          <span class="caption">
-            <span class="caption-content">
-              <h2>Francesca Costaliola</h2>
-              <p class="mb-0">
-                <strong>Age: </strong>12
-                <br>
-                <strong>Borough: </strong>Hackney
-                <br>
-                <strong>Favourite Food: </strong>Pizza
-                <br>
-                <strong>Interesting Fact: </strong>Francesca has half Columbian and half Italian heritage
-             </p>
-            </span>
-          </span>
-          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/08/Francesca_Costaliola.jpg" alt="">
-        </a>
-      </div>
-      <div class="col-lg-6">
-        <a class="portfolio-item" href="#">
-          <span class="caption">
-            <span class="caption-content">
-              <h2>Nana Asante</h2>
-              <p class="mb-0">
-                <strong>Age: </strong>14
-                <br>
-                <strong>Borough: </strong>Southwark
-                <br>
-                <strong>Favourite Food: </strong>Meatfest pizza
-                <br>
-                <strong>Interesting Fact: </strong>Nana can speak 5 different languages. English, Twi, Deutsch, French, Portuguese
-              </p>
-            </span>
-          </span>
-          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/08/Nana_Asante.jpg" alt="">
-        </a>
-      </div>
-      <div class="col-lg-6">
-        <a class="portfolio-item" href="#">
-          <span class="caption">
-            <span class="caption-content">
-              <h2>Nia James</h2>
-              <p class="mb-0">
-                <strong>Age: </strong>18
-                <br>
-                <strong>Borough: </strong>Middlesex
-                <br>
-                <strong>Favourite Food: Burgers</strong>
-                <br>
-                <strong>Interesting Fact: </strong>Nia is originally from Wales
-              </p>
-            </span>
-          </span>
-          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/08/Nia_James.jpg" alt="">
-        </a>
-      </div>
-      <div class="col-lg-6">
-        <a class="portfolio-item" href="#">
-          <span class="caption">
-            <span class="caption-content">
-              <h2>Osato Eghi-Guobadia</h2>
-              <p class="mb-0">
-                <strong>Age: </strong>14
-                <br>
-                <strong>Borough: </strong>Greenwich
-                <br>
-                <strong>Favourite Food: </strong>Chinese
-                <br>
-                <strong>Interesting Fact: </strong>Osato is a mastermind at riddles.</p>
-            </span>
-          </span>
-          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/08/Osato_Eghi-Guobadia.jpg" alt="">
-        </a>
-      </div>
-      <div class="col-lg-6">
-        <a class="portfolio-item" href="#">
-          <span class="caption">
-            <span class="caption-content">
-              <h2>Sheron Samm-Esprit</h2>
-              <p class="mb-0">
-                <strong>Age: </strong>16
-                <br>
-                <strong>Borough: </strong>Southwark
-                <br>
-                <strong>Favourite Food: </strong>Pizza
-                <br>
-                <strong>Interesting Fact: </strong>Sheron is currently studying Health and Social Care
-                </p>
-              </p>
-            </span>
-          </span>
-          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/08/Sheron_Samm-Esprit.jpg" alt="">
-        </a>
-      </div>
-      <div class="col-lg-6">
-        <a class="portfolio-item" href="#">
-          <span class="caption">
-            <span class="caption-content">
-              <h2>Tyra Egbri</h2>
-              <p class="mb-0">
-                <strong>Age: </strong>14
-                <br>
-                <strong>Borough: </strong>Lambeth
-                <br>
-                <strong>Favourite Food: </strong>Chicken
-                <br>
-                <strong>Interesting Fact: </strong>Tyra used to dance with The Royal Ballet
-              </p>
-            </span>
-          </span>
-          <img class="img-fluid" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/08/Tyra_Egbri.jpg" alt="">
-        </a>
-      </div>
-    </div>
-  </div>
 </section>
 
 <!-- Sponsors -->
