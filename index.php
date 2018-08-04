@@ -286,7 +286,7 @@
                 <br>
                 <strong>Favourite Food: </strong>Pizza
                 <br>
-                <strong>Interesting Fact: </strong>Destiny also dances with the renewed Street Dance Company ‘Flawless’
+                <strong>Interesting Fact: </strong>Destiny also dances with the renowned Street Dance Company ‘Flawless’
               </p>
             </span>
           </span>
