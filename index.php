@@ -26,11 +26,11 @@
 </section>
 
 <!-- About the Team -->
-<section class="content-section text-center" id="about-the-team">
+<section class="content-section text-center" id="meet-the-team">
   <div class="container">
     <div class="content-section-heading">
       <h3 class="text-secondary mb-0">Team Profile</h3>
-      <h2 class="mb-5">About the Team</h2>
+      <h2 class="mb-5">Meet the team</h2>
     </div>
     <div class="row">
       <div class="col-lg-10 mb-5 mb-lg-0 mx-auto">
@@ -128,12 +128,12 @@
 
 <!-- Current Work -->
 <section class="content-section bg-light" id="current-work">
-  <div class="container text-center">
+  <div class="container">
     <div class="row">
-      <div class="col-lg-10 mx-auto">
+      <div class="col-lg-10">
       <div class="content-section-heading">
         <h3 class="text-secondary mb-0">Choreography</h3>
-        <h2 class="mb-5">Current Work</h2>
+        <h2 class="mb-2">CURRENT WORK</h2>
       </div>
         <p class="lead mb-5">
           <strong>Choreographers:</strong> Hakeem Onibudo, Keanu Wilson and Rachel Greer
@@ -159,7 +159,7 @@
   <div class="container">
     <div class="content-section-heading text-center">
       <h3 class="text-secondary mb-0">Portfolio</h3>
-      <h2 class="mb-5">Dancers</h2>
+      <h2 class="mb-5">Meet the dancers</h2>
     </div>
     <div class="row no-gutters">
       <div class="col-lg-6">
