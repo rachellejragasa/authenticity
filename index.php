@@ -128,30 +128,34 @@
 
 <!-- Current Work -->
 <section class="content-section bg-light" id="current-work">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-10">
-      <div class="content-section-heading">
-        <h3 class="text-secondary mb-0">Choreography</h3>
-        <h2 class="mb-2">CURRENT WORK</h2>
-      </div>
-        <p class="lead mb-5">
-          <strong>Choreographers:</strong> Hakeem Onibudo, Keanu Wilson and Rachel Greer
-          <br>
-          <strong>Name: </strong>Transient
-          <br>
-          <strong>Duration: </strong>13 minutes
-          <br>
-          <strong>Description: </strong> Youth are depicted as a fast-paced Society, moving
-          at speed causing them to ‘miss’ details about their environment and the people
-          around them. With an interjection, they are forced to slow down, enabling them to
-          notice their surroundings. Notice leads to observation-observation may lead to focus.
-          Resulting in stillness – this creates a sense of empathy which may reverberate
-          through individuals.
-        </p>
-      </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-5">
+                <div class="content-section-heading">
+                    <h6 class="text-secondary mb-0">CHOREOGRAPHY</h3>
+                    <h4 class="mb-2">CURRENT WORK</h5>
+                </div>
+                <p class="lead mb-5">
+                    <strong>Choreographers:</strong> Hakeem Onibudo, Keanu Wilson and Rachel Greer
+                    <br>
+                    <strong>Name: </strong>Transient
+                    <br>
+                    <strong>Duration: </strong>13 minutes
+                    <br>
+                    <strong>Description: </strong> Youth are depicted as a fast-paced Society, moving
+                    at speed causing them to ‘miss’ details about their environment and the people
+                    around them. With an interjection, they are forced to slow down, enabling them to
+                    notice their surroundings. Notice leads to observation-observation may lead to focus.
+                    Resulting in stillness – this creates a sense of empathy which may reverberate
+                    through individuals.
+                </p>
+            </div>
+            <div class="col-lg-7">
+                <img src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/08/DSC4542-1.jpeg" class="img-fluid">
+            </div>
+        </div>
     </div>
-  </div>
+    <div class="vw-image"><img src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/08/DSC4542-1.jpeg" class="img-fluid"></div>
 </section>
 
 <!-- Portfolio -->

@@ -374,6 +374,30 @@ a:hover, a:focus, a:active {
   color: #ecb807 !important;
 }
 
+#current-work .lead {
+  font-size: 1.1rem;
+}
+
+@media (max-width: 991.98px) {
+  #current-work .vw-image {
+    width: 100vw;
+    display: block;
+    margin-top: 3rem;
+  }
+  #current-work .col-lg-7 {
+    display: none;
+  }
+}
+
+@media (min-width: 992px) {
+  #current-work .vw-image {
+    display: none;
+  }
+  #current-work .col-lg-7 {
+    display: block;
+  }
+}
+
 .circular-img img {
   max-width: 100%;
   width: 200px;
