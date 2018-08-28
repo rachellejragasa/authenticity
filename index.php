@@ -158,6 +158,11 @@
     <div class="vw-image"><img src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/08/DSC4542-1.jpeg" class="img-fluid"></div>
 </section>
 
+<!-- Video -->
+<section id="video">
+<iframe class="full-width" src="https://www.youtube.com/embed/jie8Csj-mxg?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</section>
+
 <!-- Portfolio -->
 <section class="content-section" id="dancers">
     <div class="container">
@@ -389,11 +394,6 @@
             </div>
         </div>
     </div>
-</section>
-
-<!-- Video -->
-<section id="video">
-<iframe class="full-width" src="https://www.youtube.com/embed/jie8Csj-mxg?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </section>
 
 <!-- Sponsors -->
