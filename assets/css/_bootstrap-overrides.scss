@@ -1,96 +1,100 @@
 a {
-  color: $primary;
-  &:hover,
-  &:focus,
-  &:active {
-    color: darken($primary, 10%);
-  }
+    color: $primary;
+
+    &:hover,
+    &:focus,
+    &:active {
+        color: darken($primary, 10%);
+    }
 }
 
 .btn-primary {
-  background-color: $primary !important;
-  border-color: $primary !important;
-  color: $white !important;
-  &:hover,
-  &:focus,
-  &:active {
-    background-color: darken($primary, 10%) !important;
-    border-color: darken($primary, 10%) !important;
-  }
+    background-color: $primary !important;
+    border-color: $primary !important;
+    color: $white !important;
+
+    &:hover,
+    &:focus,
+    &:active {
+        background-color: darken($primary, 10%) !important;
+        border-color: darken($primary, 10%) !important;
+    }
 }
 
 .btn-secondary {
-  background-color: $secondary !important;
-  border-color: $secondary !important;
-  color: $white !important;
-  &:hover,
-  &:focus,
-  &:active {
-    background-color: darken($secondary, 10%) !important;
-    border-color: darken($secondary, 10%) !important;
-  }
+    background-color: $secondary !important;
+    border-color: $secondary !important;
+    color: $white !important;
+
+    &:hover,
+    &:focus,
+    &:active {
+        background-color: darken($secondary, 10%) !important;
+        border-color: darken($secondary, 10%) !important;
+    }
 }
 
 .btn-dark {
-  color: $white !important;
+    color: $white !important;
 }
 
 .btn {
-  box-shadow: 0px 3px 3px 0px rgba(0, 0, 0, 0.1);
-  font-weight: 700;
+    box-shadow: 0px 3px 3px 0px rgba(0, 0, 0, 0.1);
+    font-weight: 700;
 }
 
 .bg-primary {
-  background-color: $primary !important;
+    background-color: $primary !important;
 }
 
 .text-primary {
-  color: $primary !important;
+    color: $primary !important;
 }
 
 .text-secondary {
-  color: $secondary !important;
+    color: $secondary !important;
 }
 
 #current-work .lead {
-  font-size: 1.1rem;
+    font-size: 1.1rem;
 }
 
 @media (max-width: 991.98px) {
-  #current-work .vw-image {
-    width: 100vw;
-    display: block;
-    margin-top: 3rem;
-  }
+    #current-work .vw-image {
+        width: 100vw;
+        display: block;
+        margin-top: 3rem;
+    }
 
-  #current-work .col-lg-7 {
-    display: none;
-  }
+    #current-work .col-lg-7 {
+        display: none;
+    }
 }
 
 @media (min-width: 992px) {
-  #current-work .vw-image {
-    display: none;
-  }
+    #current-work .vw-image {
+        display: none;
+    }
 
-  #current-work .col-lg-7 {
-    display: block;
-  }
+    #current-work .col-lg-7 {
+        display: block;
+    }
 }
 
 body {
-  --ratio: 360 / 640;
+    --ratio: 360 / 640;
 }
+
 .full-width {
-  width: 100vw; // we know it will be full-width
-  height: calc(100vw * var(--ratio));
+    width: 100vw; // we know it will be full-width
+    height: calc(100vw * var(--ratio));
 }
 
 iframe {
-  display: block;
-  margin: 0 auto 1em;
+    display: block;
+    margin: 0 auto 1em;
 }
 
 section#dancers {
-  padding-bottom: 0;
+    padding-bottom: 0;
 }

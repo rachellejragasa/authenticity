@@ -172,7 +172,7 @@
         </div>
         <div class="row">
             <!-- Aimee Grindle -->
-            <div class="content">
+            <div class="content mx-auto">
                 <div class="content-overlay"></div>
                 <img class="content-image" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/08/Aimee_Grindle.jpg"/>
                 <div class="content-details fadeIn-bottom">
@@ -189,7 +189,7 @@
                 </div>
             </div>
             <!-- Bethanie Gbocho -->
-            <div class="content">
+            <div class="content mx-auto">
                 <div class="content-overlay"></div>
                 <img class="content-image" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/08/Bethanie_Gbocho.jpg"/>
                 <div class="content-details fadeIn-bottom">
@@ -206,7 +206,7 @@
                 </div>
             </div>
             <!-- Chloe Lanisquot -->
-            <div class="content">
+            <div class="content mx-auto">
                 <div class="content-overlay"></div>
                 <img class="content-image" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/08/Chloe_Lanisquot.jpg"/>
                 <div class="content-details fadeIn-bottom">
@@ -223,7 +223,7 @@
                 </div>
             </div>
             <!-- Ciar Wild -->
-            <div class="content">
+            <div class="content mx-auto">
                 <div class="content-overlay"></div>
                 <img class="content-image" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/08/Ciar_Wild.jpg"/>
                 <div class="content-details fadeIn-bottom">
@@ -240,7 +240,7 @@
                 </div>
             </div>
             <!-- D'Andre Elizah -->
-            <div class="content">
+            <div class="content mx-auto">
                 <div class="content-overlay"></div>
                 <img class="content-image" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/08/DAndre_Elizah.jpg"/>
                 <div class="content-details fadeIn-bottom">
@@ -257,7 +257,7 @@
                 </div>
             </div>
             <!-- Danielle Okwabi -->
-            <div class="content">
+            <div class="content mx-auto">
                 <div class="content-overlay"></div>
                 <img class="content-image" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/08/Danielle_Okwabi.jpg"/>
                 <div class="content-details fadeIn-bottom">
@@ -274,7 +274,7 @@
                 </div>
             </div>
             <!-- Destiny Onyemerekwe -->
-            <div class="content">
+            <div class="content mx-auto">
                 <div class="content-overlay"></div>
                 <img class="content-image" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/08/Destiny_Onyemerekwe.jpg"/>
                 <div class="content-details fadeIn-bottom">
@@ -291,7 +291,7 @@
                 </div>
             </div>
             <!-- Francesca Costaliola -->
-            <div class="content">
+            <div class="content mx-auto">
                 <div class="content-overlay"></div>
                 <img class="content-image" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/08/Francesca_Costaliola.jpg"/>
                 <div class="content-details fadeIn-bottom">
@@ -308,7 +308,7 @@
                 </div>
             </div>
             <!-- Nana Asante -->
-            <div class="content">
+            <div class="content mx-auto">
                 <div class="content-overlay"></div>
                 <img class="content-image" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/08/Nana_Asante.jpg"/>
                 <div class="content-details fadeIn-bottom">
@@ -325,7 +325,7 @@
                 </div>
             </div>
             <!-- Nia James -->
-            <div class="content">
+            <div class="content mx-auto">
                 <div class="content-overlay"></div>
                 <img class="content-image" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/08/Nia_James.jpg"/>
                 <div class="content-details fadeIn-bottom">
@@ -342,7 +342,7 @@
                 </div>
             </div>
             <!-- Osato Eghi-Guobadia -->
-            <div class="content">
+            <div class="content mx-auto">
                 <div class="content-overlay"></div>
                 <img class="content-image" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/08/Osato_Eghi-Guobadia.jpg"/>
                 <div class="content-details fadeIn-bottom">
@@ -359,7 +359,7 @@
                 </div>
             </div>
             <!-- Sheron Samm-Esprit -->
-            <div class="content">
+            <div class="content mx-auto">
                 <div class="content-overlay"></div>
                 <img class="content-image" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/08/Sheron_Samm-Esprit.jpg"/>
                 <div class="content-details fadeIn-bottom">
@@ -376,7 +376,7 @@
                 </div>
             </div>
             <!-- Tyra Egbri -->
-            <div class="content">
+            <div class="content mx-auto">
                 <div class="content-overlay"></div>
                 <img class="content-image" src="https://www.authenticitydance.co.uk/wp-content/uploads/2018/08/Tyra_Egbri.jpg"/>
                 <div class="content-details fadeIn-bottom">
@@ -392,6 +392,9 @@
                     </p>
                 </div>
             </div>
+
+            <div class="content mx-auto"></div>
+            <div class="content mx-auto"></div>
         </div>
     </div>
 </section>
